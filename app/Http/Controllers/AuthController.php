@@ -30,7 +30,7 @@ class AuthController extends Controller
     public function logout()
     {
         session()->forget('user');
-        return redirect('/')->with('success', 'You have successfully logged out.');
+        return redirect('/');
     }
     
 }
