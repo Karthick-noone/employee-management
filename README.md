@@ -37,7 +37,7 @@ This project provides a simple API and a UI to manage employees, accounts, and p
 - PHP 8.0 or higher
 - Composer
 - SQLite or MySQL Database
-- Laravel 8.x or higher
+- Laravel 11.x or higher
 
 ## Installation Instructions
 
